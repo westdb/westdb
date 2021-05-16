@@ -1,4 +1,4 @@
-![Image](https://img.shields.io/npm/v/westdb?color=%2351F9C0&label=payidar.db) 
+![Image](https://img.shields.io/npm/v/westdb?color=%2351F9C0&label=westdb) 
 ![Image](https://img.shields.io/npm/dt/westdb.svg?color=%2351FC0&maxAge=3600) 
 #
 ![Image](https://nodei.co/npm/westdb.png?downloads=true&downloadRank=true&stars=true)
