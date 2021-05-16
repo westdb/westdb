@@ -1,4 +1,3 @@
-
 import { EventEmitter } from "events";
 import db from "quick.db";
 
@@ -48,5 +47,9 @@ export default class Database extends EventEmitter {
                      subtract(key:string,count:number) {
                         return this.db.subtract(key,count);
                          };
+
+                         deleteAll() {
+                            return this.db.deleteAll();
+                             };
                       
 };
